@@ -1,6 +1,6 @@
 # UX-Heuristics-AI
 AI-powered tool that evaluates UI screenshots using Nielsen’s UX heuristics via LLMs.
-# 🎨 AI UI Enhancer – UX Heuristics Evaluator 🤖
+# AI UI Enhancer – UX Heuristics Evaluator🎨
 
 An AI-powered tool that evaluates UI screenshots using **Nielsen’s 10 Usability Heuristics**, combining **OCR**, **Prompt Engineering**, and **LLMs**. Designed for UX designers, frontend developers, and tech enthusiasts exploring the potential of AI in usability evaluation.
 
@@ -9,9 +9,9 @@ An AI-powered tool that evaluates UI screenshots using **Nielsen’s 10 Usabilit
 The AI UI Enhancer is a hybrid design-tech project that uses **Generative AI** to assess the quality of user interfaces based on industry-standard UX heuristics. It aims to automate the early-stage UX audit process, providing **actionable feedback** and suggestions to improve user experience.
 
 This tool is ideal for:
-- 🚀 Rapid UI/UX iterations
-- 🧠 Learning how LLMs can support design decisions
-- 🛠 Building your own AI design utilities
+- Rapid UI/UX iterations
+- Learning how LLMs can support design decisions
+- Building your own AI design utilities
 
 ## 🔍 How It Works
 
@@ -29,10 +29,10 @@ This tool is ideal for:
 
 | Feature                            | Status     |
 |------------------------------------|------------|
-| Upload & display UI screenshots    | ✅ Done     |
-| OCR-based text extraction          | ✅ Done     |
-| Prompt-engineered GPT evaluation   | ✅ Done     |
-| Streamlit UI for interaction       | ✅ Done     |
+| Upload & display UI screenshots    |  Done     |
+| OCR-based text extraction          |  Done     |
+| Prompt-engineered GPT evaluation   |  Done     |
+| Streamlit UI for interaction       |  Done     |
 
 ## 💡 Motivation
 
