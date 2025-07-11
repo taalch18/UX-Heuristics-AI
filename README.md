@@ -42,7 +42,7 @@ Inspired by the intersection of:
 - UX design principles (Nielsen’s heuristics)
 - Prompt engineering
 - OpenAI and Streamlit
-- Real-world designer pain points
+- Challenges faced by designers in practical scenarios
 
 ## 🧰 Tech Stack
 
