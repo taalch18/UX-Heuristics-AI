@@ -10,7 +10,7 @@
 </p>
 
 
-### What if an AI could be your design partner?
+### What if AI could be your design partner?
 In the fast-paced world of design and development, we're always looking for ways to work smarter. We run our code through linters and formatters, but what about our designs? Getting feedback on a user interface often means waiting for a formal review or trying to catch a colleague between meetings.
 
 This project started with a simple question: **Can we use the power of modern AI to get a first-pass UX audit in seconds?**
